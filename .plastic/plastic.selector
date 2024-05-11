@@ -1,0 +1,4 @@
+repository "Farm and Adventure@apritau@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
